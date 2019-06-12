@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Certificate" max_length="40" name="x_nouin_nousvenafi_certificate_rqst" type="collection">
+        <element label="Alias" max_length="40" name="alias" type="string"/>
+        <element label="Approver" max_length="40" name="approver_nous" type="string"/>
+        <element attributes="edge_encryption_enabled=true,no_sort=true,slushbucket_ref_no_expand=true" label="Assigned CI" max_length="4000" name="assigned_ci" reference="cmdb_ci" type="glide_list"/>
+        <element label="Certificate Authority" max_length="100" name="certificate_authority" type="string"/>
+        <element label="Certificate Data" max_length="5000" name="certificate_date" type="string"/>
+        <element label="Certificate DN" max_length="1000" name="certificate_dn" type="string"/>
+        <element label="Certificate Folder" max_length="40" name="certificate_folder" type="string"/>
+        <element label="Certificate Friendly Name" max_length="40" name="certificate_friendly_name" type="string"/>
+        <element label="Certificate Valid From" max_length="40" name="certificate_valid_from" type="glide_date_time"/>
+        <element label="Certificate Valid Till" max_length="40" name="certificate_valid_to" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Chain Order" max_length="40" name="chain_order" type="choice">
+            <choice/>
+        </element>
+        <element label="City/Locality" max_length="40" name="city_locality" type="string"/>
+        <element label="Common Name" max_length="40" name="common_name" type="string"/>
+        <element label="Confirm Keystore Password" max_length="40" name="confirm_keystore_password" type="string"/>
+        <element label="Confirm Password" max_length="40" name="confirm_password" type="string"/>
+        <element label="Contacts" max_length="40" name="contacts" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="CSR Generation" max_length="40" name="csr_generation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Generate a CSR for me" sequence="100" value="Generate a CSR for me"/>
+                <element inactive_on_update="false" label="I will generate my CSR" sequence="200" value="I will generate my CSR"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="1000" name="description_nous" type="string_full_utf8"/>
+        <element label="Enter CSR" max_length="1000" name="enter_csr" type="string"/>
+        <element label="File Name" max_length="40" name="file_name" type="string"/>
+        <element label="Format" max_length="40" name="format" type="string"/>
+        <element label="GUID" max_length="40" name="guid" type="string"/>
+        <element label="Hash Algorithm" max_length="40" name="hash_algorithm" type="string"/>
+        <element label="Keystore Password" max_length="40" name="keystore_password" type="string"/>
+        <element label="Key Strength" max_length="40" name="key_strength" type="string"/>
+        <element label="Management Type" max_length="40" name="management_type" type="string"/>
+        <element label="Nickname" max_length="40" name="nickname" type="string"/>
+        <element label="Organization" max_length="40" name="organization" type="string"/>
+        <element label="Organization Unit" max_length="40" name="organization_unit" type="string"/>
+        <element label="Password" max_length="40" name="password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Private Key" max_length="40" name="private_key" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Requested Item" max_length="32" name="requested_item" reference="sc_req_item" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Root Chain" max_length="40" name="root_chain" type="boolean"/>
+        <element label="State/Province" max_length="40" name="state_province" type="string"/>
+        <element label="Status" max_length="1000" name="status" type="string"/>
+        <element label="Subject Alternative Names" max_length="40" name="subject_alternative_names" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Use Case" max_length="32" name="use_case" reference="x_nouin_nousvenafi_policy" type="reference"/>
+        <index name="index">
+            <element name="use_case"/>
+        </index>
+        <index name="index2">
+            <element name="requested_for"/>
+        </index>
+    </element>
+</database>

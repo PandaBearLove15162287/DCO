@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-12 06:15:46">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order>3100</order>
+        <read_roles>x_nouin_nousvenafi.venafi_user,admin</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 08:03:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0ac23d47dbbb32000497d450cf961984</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Nous TPP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_update_name>sys_portal_page_0ac23d47dbbb32000497d450cf961984</sys_update_name>
+        <sys_updated_by>sudhakar.c</sys_updated_by>
+        <sys_updated_on>2019-05-15 09:23:55</sys_updated_on>
+        <title>Nous TPP</title>
+        <user/>
+        <view>nous_venafi_platform</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Nous TPP">0ac23d47dbbb32000497d450cf961984</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                <sys_id>784de07ddbc8a7005e695099dc9619e4</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>3c4de07ddbc8a7005e695099dc9619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>0ac23d47dbbb32000497d450cf961984</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b04de07ddbc8a7005e695099dc9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b04de07ddbc8a7005e695099dc9619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>catalog_default</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b44de07ddbc8a7005e695099dc9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>sc_catalog_homepage_category_list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b44de07ddbc8a7005e695099dc9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b44de07ddbc8a7005e695099dc9619e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=bafb0a8edb5332000497d450cf9619f7&amp;amp;sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&amp;amp;sysparm_catalog_view=catalog_default'&amp;gt;Certificate Catalog&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b84de07ddbc8a7005e695099dc9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>b84de07ddbc8a7005e695099dc9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=bafb0a8edb5332000497d450cf9619f7&amp;amp;amp;amp;sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&amp;amp;amp;amp;sysparm_catalog_view=catalog_default</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>bc4de07ddbc8a7005e695099dc9619e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>bc4de07ddbc8a7005e695099dc9619e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-08-21 01:23:16">784de07ddbc8a7005e695099dc9619e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-21 08:23:16</sys_created_on>
+                        <sys_id>f84de07ddbc8a7005e695099dc9619e4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-21 08:23:16</sys_updated_on>
+                        <value>bafb0a8edb5332000497d450cf9619f7</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
