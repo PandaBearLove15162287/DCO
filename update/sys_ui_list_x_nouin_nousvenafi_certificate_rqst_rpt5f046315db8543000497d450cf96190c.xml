@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nickname</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="9f9463dadb5a13005e695099dc961903">ea9dccc4db9507000497d450cf96192b</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="b8c12b29dbe13300969c2fb748961978">ea9dccc4db9507000497d450cf96192b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>certificate_valid_to</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="9f9463dadb5a13005e695099dc961903">ea9dccc4db9507000497d450cf96192b</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="b8c12b29dbe13300969c2fb748961978">ea9dccc4db9507000497d450cf96192b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>csr_generation</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="9f9463dadb5a13005e695099dc961903">ea9dccc4db9507000497d450cf96192b</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="b8c12b29dbe13300969c2fb748961978">ea9dccc4db9507000497d450cf96192b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -58,21 +58,19 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>sudhakar.c</sys_created_by>
             <sys_created_on>2018-12-11 13:29:11</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ea9dccc4db9507000497d450cf96192b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_nouin_nousvenafi_certificate_rqst</sys_name>
-            <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+            <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+            <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
             <sys_update_name>sys_ui_list_x_nouin_nousvenafi_certificate_rqst_RPT5f046315db8543000497d450cf96190c</sys_update_name>
             <sys_updated_by>sudhakar.c</sys_updated_by>
             <sys_updated_on>2018-12-11 13:29:11</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt5f046315db8543000497d450cf96190c" name="RPT5f046315db8543000497d450cf96190c">9f9463dadb5a13005e695099dc961903</view>
+            <view display_value="Rpt5f046315db8543000497d450cf96190c" name="RPT5f046315db8543000497d450cf96190c">b8c12b29dbe13300969c2fb748961978</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

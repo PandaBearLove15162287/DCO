@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nickname</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="5565339edb9a13005e695099dc961932">99f13430dbcad700f74bf3d51d9619c3</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="57ae0be9dba13300969c2fb7489619d3">99f13430dbcad700f74bf3d51d9619c3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>certificate_valid_to</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="5565339edb9a13005e695099dc961932">99f13430dbcad700f74bf3d51d9619c3</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="57ae0be9dba13300969c2fb7489619d3">99f13430dbcad700f74bf3d51d9619c3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>key_strength</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="5565339edb9a13005e695099dc961932">99f13430dbcad700f74bf3d51d9619c3</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="57ae0be9dba13300969c2fb7489619d3">99f13430dbcad700f74bf3d51d9619c3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="5565339edb9a13005e695099dc961932">99f13430dbcad700f74bf3d51d9619c3</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="57ae0be9dba13300969c2fb7489619d3">99f13430dbcad700f74bf3d51d9619c3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>csr_generation</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="5565339edb9a13005e695099dc961932">99f13430dbcad700f74bf3d51d9619c3</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="57ae0be9dba13300969c2fb7489619d3">99f13430dbcad700f74bf3d51d9619c3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="5565339edb9a13005e695099dc961932">99f13430dbcad700f74bf3d51d9619c3</list_id>
+            <list_id display_value="x_nouin_nousvenafi_certificate_rqst" element="NULL" name="x_nouin_nousvenafi_certificate_rqst" parent="NULL" relationship="NULL" sys_domain="global" view="57ae0be9dba13300969c2fb7489619d3">99f13430dbcad700f74bf3d51d9619c3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -103,21 +103,19 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-05-25 08:54:19</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>99f13430dbcad700f74bf3d51d9619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_nouin_nousvenafi_certificate_rqst</sys_name>
-            <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+            <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+            <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
             <sys_update_name>sys_ui_list_x_nouin_nousvenafi_certificate_rqst_RPTddf13430dbcad700f74bf3d51d9619be</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-05-25 08:54:19</sys_updated_on>
             <sys_user/>
-            <view display_value="Rptddf13430dbcad700f74bf3d51d9619be" name="RPTddf13430dbcad700f74bf3d51d9619be">5565339edb9a13005e695099dc961932</view>
+            <view display_value="Rptddf13430dbcad700f74bf3d51d9619be" name="RPTddf13430dbcad700f74bf3d51d9619be">57ae0be9dba13300969c2fb7489619d3</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

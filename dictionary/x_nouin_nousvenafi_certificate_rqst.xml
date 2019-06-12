@@ -52,5 +52,8 @@
         <index name="index2">
             <element name="requested_for"/>
         </index>
+        <index name="index3">
+            <element name="requested_item"/>
+        </index>
     </element>
 </database>

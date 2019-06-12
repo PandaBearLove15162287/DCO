@@ -9,7 +9,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Digital Certificate Organizer</name>
+        <name>Digital Certificate Organizer 2.0</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -24,9 +24,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-29 11:59:48</sys_created_on>
         <sys_id>16131e3fdb150300f74bf3d51d96191f</sys_id>
-        <sys_mod_count>68</sys_mod_count>
-        <sys_updated_by>sudhakar.c</sys_updated_by>
-        <sys_updated_on>2019-06-06 10:19:50</sys_updated_on>
+        <sys_mod_count>69</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:29:45</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>

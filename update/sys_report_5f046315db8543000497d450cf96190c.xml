@@ -105,14 +105,12 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-06 09:05:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_id>5f046315db8543000497d450cf96190c</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>Certificate Requests Expiring within 60 Days</sys_name>
-        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_update_name>sys_report_5f046315db8543000497d450cf96190c</sys_update_name>
         <sys_updated_by>sudhakar.c</sys_updated_by>
         <sys_updated_on>2018-12-11 13:29:10</sys_updated_on>
@@ -125,7 +123,6 @@
         <type>list</type>
         <upper_limit/>
         <use_color_heatmap>true</use_color_heatmap>
-        <use_color_palette>true</use_color_palette>
         <use_null_in_trend>false</use_null_in_trend>
         <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
