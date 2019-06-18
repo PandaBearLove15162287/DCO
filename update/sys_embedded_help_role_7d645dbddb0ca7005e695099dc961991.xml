@@ -9,10 +9,10 @@
         <sys_id>7d645dbddb0ca7005e695099dc961991</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>f5645dbddb0ca7005e695099dc961990</sys_name>
-        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_update_name>sys_embedded_help_role_7d645dbddb0ca7005e695099dc961991</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-08-21 11:14:16</sys_updated_on>

@@ -57,10 +57,10 @@
         <sys_id>c6a6cb1cdb2c03000497d450cf9619a7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Certificate Friendly Name</sys_name>
-        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_update_name>sys_dictionary_x_nouin_nousvenafi_certificate_rqst_certificate_friendly_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-08-09 07:58:45</sys_updated_on>

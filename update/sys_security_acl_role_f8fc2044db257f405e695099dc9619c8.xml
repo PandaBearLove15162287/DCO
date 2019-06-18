@@ -7,10 +7,10 @@
         <sys_id>f8fc2044db257f405e695099dc9619c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_nouin_nousvenafi_displayRenewDetails.x_nouin_nousvenafi.venafi_user</sys_name>
-        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_security_acl display_value="x_nouin_nousvenafi_displayRenewDetails">8bf2facddbd21340afa1f9961d96197f</sys_security_acl>
         <sys_update_name>sys_security_acl_role_f8fc2044db257f405e695099dc9619c8</sys_update_name>
         <sys_updated_by>sudhakar.c</sys_updated_by>

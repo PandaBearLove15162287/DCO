@@ -172,7 +172,7 @@
             <sys_package/>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+            <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
             <sys_update_name>sys_ui_list_sys_ui_page_67bdac52374010008687ddb1967334ee_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-14 09:28:08</sys_updated_on>

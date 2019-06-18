@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-12 06:15:46">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-18 06:26:48">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order>3100</order>
@@ -15,10 +15,10 @@
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Nous TPP</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_update_name>sys_portal_page_0ac23d47dbbb32000497d450cf961984</sys_update_name>
         <sys_updated_by>sudhakar.c</sys_updated_by>
         <sys_updated_on>2019-05-15 09:23:55</sys_updated_on>

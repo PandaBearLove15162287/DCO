@@ -20,7 +20,7 @@
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_update_name>sys_filter_233f15c8db2003000497d450cf961995</sys_update_name>
         <sys_updated_by>venafi_tppadmin</sys_updated_by>
         <sys_updated_on>2017-08-08 05:41:21</sys_updated_on>

@@ -14,10 +14,10 @@
         <sys_id>445cbcf1db0ca7005e695099dc961926</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>common_name</sys_name>
-        <sys_package display_value="Digital Certificate Organizer" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
+        <sys_package display_value="Digital Certificate Organizer 2.0" source="x_nouin_nousvenafi">16131e3fdb150300f74bf3d51d96191f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Digital Certificate Organizer">16131e3fdb150300f74bf3d51d96191f</sys_scope>
+        <sys_scope display_value="Digital Certificate Organizer 2.0">16131e3fdb150300f74bf3d51d96191f</sys_scope>
         <sys_update_name>catalog_ui_policy_action_445cbcf1db0ca7005e695099dc961926</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-08-21 09:29:13</sys_updated_on>
